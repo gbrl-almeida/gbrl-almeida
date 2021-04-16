@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 😄
+
+I'm currently learning Javascript, Typescript and some frameworks of Web Dev
+
 
 <!--
 **gbrl-almeida/gbrl-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
