@@ -1,6 +1,10 @@
 ### Hey 😄
 
-I'm currently learning Javascript, Typescript and some frameworks of Web Dev
+- 🌱 I'm currently learning React and Next.js.
+- 🔭 I’m currently working on @konsi.app as Product Owner and Web dev.
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gbrl-almeida/">Linkedin</a>
+
 
 
 <!--
