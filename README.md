@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **web projects**
 
-- 💬 Ask me about **react, next, MUI, typescript**
+- 💬 Ask me about **react, next, MUI, typescript, web master**
 
 - 📫 How to reach me **gbrl.almeida01@gmail.com**
 
