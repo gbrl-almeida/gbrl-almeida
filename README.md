@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [Konsi](https://www.konsi.com.br/)
 
-- 🌱 I’m currently learning **Dotnet**
-
 - 👯 I’m looking to collaborate on **web projects**
 
 - 💬 Ask me about **react, next, MUI, typescript, web master**
