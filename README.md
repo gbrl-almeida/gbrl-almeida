@@ -1,10 +1,8 @@
-<h3 align="center">A full stack web developer.</h3>
+<h3 align="center">A tech lead</h3>
 
 - 🔭 I’m currently working on [Konsi](https://www.konsi.com.br/)
 
-- 👯 I’m looking to collaborate on **web projects**
-
-- 💬 Ask me about **react, next, MUI, typescript, web master**
+- 💬 Ask me about **react, next, js/ts, web master(SEO), N8N, node, tailwindcss, events tracking**
 
 - 📫 How to reach me **gbrl.almeida01@gmail.com**
 
