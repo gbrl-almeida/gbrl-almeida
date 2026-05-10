@@ -1,30 +1,34 @@
-# 👋 Hey, I'm Gabriel Almeida  
+# 👋 Hey, I'm Gabriel Almeida
 
-💻 **AI Automation Engineer | Tech & Product Lead | RevOps Systems**  
-⚡ Specialist in **Automations, Python, and AI-First solutions**  
-
----
-
-## 🚀 About Me  
-I’m an **AI & Automation Specialist** with 5+ years of experience building **automations, system integrations, and scalable infrastructures**.  
-I work at the intersection of **Python, AI Agents, and workflow orchestration**, always focused on making businesses more **efficient, scalable, and data-driven**.  
-
-My playground includes:  
-- 🤖 **Conversational AI & AI Agents** (LLMs, RAG, LangChain, OpenAI, OpenRouter)  
-- 🛠 **Automations & Orchestration** (Python, n8n, Kestra, RabbitMQ, Supabase)  
-- ☁️ **Cloud & Infra** (AWS, Hetzner, Docker Swarm, Redis, Postgres)  
-- 📈 **RevOps & CRM Automation** (HubSpot, ETL pipelines, deduplication, attribution)  
-- 🌐 **Web & SEO** (Next.js, React, Strapi, Payload, AI-powered content)  
-
-I’m also passionate about **mentorship & enablement** — helping teams adopt automation and AI at scale.  
+💻 **GTM Engineer | AI & Data Platform | Revenue Operations**
+⚡ Engineering, data, and AI applied to revenue.
 
 ---
 
-## 🛠 Tech Stack  
-```yaml
-Languages: Python, JavaScript, TypeScript  
-AI/ML: LLMs, RAG, LangChain, Pinecone, OpenAI  
-Automation: n8n, Kestra, RabbitMQ, Supabase  
-Cloud: AWS, Hetzner, Docker Swarm  
-Web: Next.js, React, Strapi, Payload  
-CRM & RevOps: HubSpot, Adjust, Campaign Tracking, RdStation
+## 🚀 About Me
+
+I’m a **GTM Engineer** with 5+ years of experience building **data systems, automation, and AI** applied to revenue and commercial operations.
+I work at the bridge between business strategy and technical execution, designing pipelines, AI agents, and CRM integrations that increase conversion, reduce CAC, and shorten sales cycles.
+
+My playground includes:
+
+- 🎯 **GTM Engineering & RevOps** (CRM orchestration, attribution, lead routing, reverse ETL)
+- 🤖 **AI & Automation** (LLMs, RAG, autonomous agents, conversational AI, workflow orchestration)
+- 📊 **Data Platform & Architecture** (Event-driven, Composable CDP, ClickHouse, dbt, semantic layer)
+- ☁️ **Cloud & Infra** (AWS, Hetzner, Docker Swarm, Kubernetes)
+- 🌐 **Web & SEO** (Next.js, React, Payload, AI-powered content)
+
+Also passionate about **mentorship & enablement**, helping teams adopt automation and AI at scale.
+
+---
+
+## 🛠 Tech Stack
+
+```
+Languages:   Python, TypeScript, JavaScript, SQL
+AI/ML:       LLMs, RAG, LangChain, Pinecone, OpenAI, OpenRouter
+Data:        Kafka, Debezium, ClickHouse, Postgres, MongoDB, Redis, dbt, Databricks
+Automation:  n8n, Kestra, RabbitMQ, Supabase, HubSpot
+Cloud:       AWS, Hetzner, Docker Swarm, Kubernetes
+Web:         Next.js, React, Payload CMS
+```
